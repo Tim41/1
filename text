@@ -10,3 +10,10 @@ For more information on the features of Bash that are new to this
 type of shell, see the file `doc/bashref.texi'.  There is also a
 large Unix-style man page.  The man page is the definitive description
 of the shell's features. 
+
+-----------
+
+here are some user-visible incompatibilities between this version
+of Bash and previous widely-distributed versions, bash-4.2 and
+bash-4.3.  For details, see the file COMPAT.  The NEWS file tersely
+lists features that are new in this release. 
